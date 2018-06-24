@@ -8,7 +8,7 @@ import VideoList from './components/videoList';
 import VideoDetail from './components/videoDetail';
 import './style.css';
 
-const API_KEY = 'AIzaSyCYJhKXVwkHt0nzeQbKa7PWbvR85ZnBHDg';
+const API_KEY = 'YOUR API KEY';
 
 class App extends Component {
     constructor(props) {
